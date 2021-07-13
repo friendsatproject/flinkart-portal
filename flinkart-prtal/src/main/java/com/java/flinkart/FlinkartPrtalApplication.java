@@ -8,6 +8,7 @@ public class FlinkartPrtalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FlinkartPrtalApplication.class, args);
+	System.out.println("running...");
 	}
 
 }
